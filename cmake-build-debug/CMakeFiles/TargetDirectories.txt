@@ -1,0 +1,3 @@
+C:/Users/seth1/CLionProjects/CSII Project 1/cmake-build-debug/CMakeFiles/CSII_Project_1.dir
+C:/Users/seth1/CLionProjects/CSII Project 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/seth1/CLionProjects/CSII Project 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
